@@ -127,3 +127,7 @@ I believe that learning by building is the best way to grow, and this project is
 - 💼 [LinkedIn](#)
 - 💻 [GitHub](#)
 - ✉️ [Email](#)
+
+- ## 📊 Update: Customer Retention Analysis (Cohort)
+Selain RFM, saya juga menambahkan analisis **Cohort** untuk melacak loyalitas pelanggan.
+- **Key Insight:** Ditemukan lonjakan retensi hingga 50% pada bulan ke-12 untuk pelanggan yang bergabung di Desember 2010 (Efek Seasonality Akhir Tahun).
